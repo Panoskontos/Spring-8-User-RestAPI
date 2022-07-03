@@ -34,3 +34,9 @@ Controller - src/main/java/com/example/demo/Controller
 UserRepository - src/main/java/com/example/demo/Repo
 <br>
 Configuration - pom.xml
+
+<br>
+<br>
+
+#### How to Install and Run
+
