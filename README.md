@@ -27,5 +27,7 @@
 #### Important Directories
 
 Model - src/main/java/com/example/demo/model
+<br>
 Controller - src/main/java/com/example/demo/Controller
+<br>
 UserRepository - src/main/java/com/example/demo/Repo
