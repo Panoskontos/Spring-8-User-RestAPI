@@ -6,6 +6,7 @@
 #### Language: Java
 #### Version: 8
 #### Framework: Spring Boot
+#### Dependency Management: Maven
 #### Database used: MySQL
 
 <br>
@@ -31,3 +32,5 @@ Model - src/main/java/com/example/demo/model
 Controller - src/main/java/com/example/demo/Controller
 <br>
 UserRepository - src/main/java/com/example/demo/Repo
+<br>
+Configuration - pom.xml
