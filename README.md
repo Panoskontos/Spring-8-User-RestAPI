@@ -20,3 +20,12 @@
 |   3	|   Update User 	|  PUT 	| 	http://localhost:8080/api/users/{id}  |
 |   4	|   Delete User	|   DELETE	| 	http://localhost:8080/api/users/{id}  |
 |   5	|   Get Users by company	|  GET 	| 	http://localhost:8080/api/users?company={company_name}  |
+
+<br>
+<br>
+
+#### Important Directories
+
+Model - src/main/java/com/example/demo/model
+Controller - src/main/java/com/example/demo/Controller
+UserRepository - src/main/java/com/example/demo/Repo
