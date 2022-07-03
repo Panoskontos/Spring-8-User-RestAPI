@@ -38,5 +38,14 @@ Configuration - pom.xml
 <br>
 <br>
 
-#### How to Install and Run
+#### How to Install and Run (It is assumed that you already have Java, MAven and Mysql installed)
+`
+git clone https://github.com/Panoskontos/Spring-8-User-RestAPI.git
+`
 
+`
+cd Spring-8-User-RestAPI/
+`
+`
+mvn spring-boot:run
+`
